@@ -53,3 +53,12 @@
     width: 100vw;
     max-width: 700px;
 }
+
+@media screen and (min-width: 768px) {
+    .institucional__contato-email {
+        display: inline-block;
+    }
+    .institucional__video {
+        width:100%
+    }
+}
